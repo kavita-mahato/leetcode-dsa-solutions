@@ -1,5 +1,3 @@
-package S05_Arrays;
-
 public class majorityElement {
     public int maxOcc(int[] nums) {
         int count = 0;

@@ -1,5 +1,3 @@
-package S05_Arrays;
-
 public class onePlus {
     public int[] plusOne(int[] digits) {
         int n = digits.length;
